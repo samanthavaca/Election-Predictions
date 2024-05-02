@@ -1,0 +1,12 @@
+.info-box {
+    min-width: 300px;
+    background-color: white;
+    padding: 20px;
+    border: 1px solid black;
+    margin-left: 20px;
+    transition: opacity 0.3s ease;  /* Smooth transition for opacity change */
+  }
+  
+  .info-box:hover {
+    opacity: 0.5;
+  }
